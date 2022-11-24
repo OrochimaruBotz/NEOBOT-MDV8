@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6288804947282@s.whatsapp.net",
-    "ownerName": "HumanzzZ",
+    "ownerNumber": ["6288804947282@s.whatsapp.net", "6289697488609@s.whatsapp.net"]
+    "ownerName": ["HumanzzZ", "Yuzi"]
     "botName": "Acumalaka🗿",
-    "footer": "© BOTMD | 2022", 
+    "footer": "© Gawr Gura | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
